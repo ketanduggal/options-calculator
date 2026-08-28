@@ -1,0 +1,9 @@
+streamlit
+numpy
+scipy
+pandas
+plotly==6.1.1
+sqlalchemy
+narwhals>=1.15.1
+fpdf2
+kaleido==1.0.0
